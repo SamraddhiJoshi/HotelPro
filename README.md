@@ -177,12 +177,4 @@ The frontend is configured to proxy API requests to the backend (CORS enabled fo
 | POST   | `/api/reviews`            | Protected | Add a review for a room |
 | GET    | `/api/reviews/room/:roomId`| Public   | Get all reviews for a specific room |
 
----
 
-## 📄 License
-
-This project is licensed under the **MIT License** – see the `LICENSE` file for details.
-
----
-
-*Built with ❤️ by the HotelPro team.*
