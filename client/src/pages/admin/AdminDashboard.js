@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import api from '../services/api';
-import { Card, Button } from '../components/UIComponents';
+import api from '../../services/api';
+import { Card, Button } from '../../components/UIComponents';
 import './AdminDashboard.css';
 
 const AdminDashboard = () => {

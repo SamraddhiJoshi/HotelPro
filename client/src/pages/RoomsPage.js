@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import api from '../services/api';
 import RoomCard from '../components/RoomCard';
-import './RoomsPage.css';
+
 
 const RoomsPage = () => {
   const [rooms, setRooms] = useState([]);
