@@ -12,23 +12,6 @@ It delivers a sleek, responsive UI for guests to discover rooms, book stays, and
 
 ---
 
-## 📷 Application Screenshots
-
-<table>
-  <tr>
-    <td align="center"><img src="./assets/homepage.png" width="400" alt="Home & Room Search"/><br/>Home & Room Search Page</td>
-    <td align="center"><img src="./assets/roomdetail.png" width="400" alt="Room Detail & Booking"/><br/>Room Detail & Booking View</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./assets/mybookings.png" width="400" alt="User Booking History"/><br/>User Booking History & Status</td>
-    <td align="center"><img src="./assets/admin-dashboard.png" width="400" alt="Admin Management Dashboard"/><br/>Admin Management Dashboard</td>
-  </tr>
-</table>
-
-> **NOTE** – The images above are placeholders. Replace them with actual screenshots placed in the `assets/` folder.
-
----
-
 ## 🚀 Key Features
 
 ### User Features
